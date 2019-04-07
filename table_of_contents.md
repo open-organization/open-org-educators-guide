@@ -16,7 +16,7 @@
 
 ### Case studies
 
-- [An open process for discovering your core values](https://opensource.com/open-organization/16/6/opening-discover-education-centers-core-values)—Beth Anderson
+- [An open process for discovering your school's core values](https://opensource.com/open-organization/16/6/opening-discover-education-centers-core-values)—Beth Anderson
 - [Letting students fork and modify the course syllabus](https://opensource.com/open-organization/18/11/making-course-syllabus-open)—Heidi Ellis
 - [Confronting linguistic bias: The case for an open human language in research and pedagogy](https://opensource.com/open-organization/19/4/open-language-for-open-education)—Race MoChridhe
 - [How our non-profit works openly to make education accessible](https://opensource.com/open-organization/19/2/building-curriculahub)—Tanner Johnson
