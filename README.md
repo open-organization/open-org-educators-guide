@@ -4,11 +4,11 @@ This respository contains files related to _The Open Organization Guide for Educ
 
 ## About the book
 
-Organizations everywhere are becoming more open—and more innovative, agile, and engaged as a result. But can we say the same of our educational organizations?
+The way we design, build, and lead our organizations is changing. Unfortunately our methods for educating the people who _inhabit_ those organizations—and for empowering the people committed to training tomorrow's leaders—aren't.
 
-What if we could build classrooms, departments, or entire educational institutions on the same values that power the open source communities? What if we could infuse [open principles](https://opensource.com/open-organization/resources/open-org-definition)—like transparency, inclusivity, adaptability, collaboration, and community—into reimagined educational organizations? How might that change the ways educators prepare students for life in an increasingly open world?
+But what if we could build classrooms, departments, or entire educational institutions on the same principles that power the world's most innovative, agile, and engaged open source communities?
 
-This volume of the [_Open Organization_ book series](https://opensource.com/open-organization/resources/book-series) explores those questions.
+This volume of the [_Open Organization_ book series](https://opensource.com/open-organization/resources/book-series) explores that question.
 
 Three principal sections comprise the book:
 
@@ -20,3 +20,4 @@ Three principal sections comprise the book:
 
 As per guidelines in this repository, all material included in this book is licensed via a Creative Commons license.
 
+Want to submit a chapter to the book? Simply [open an issue](https://github.com/open-organization-ambassadors/open-org-educators-guide/issues) and describe the contribution you'd like to make, and an editor will get in touch with you.
