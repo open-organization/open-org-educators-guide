@@ -27,5 +27,5 @@ Chapters _in italics_ have been typeset in the book's [galley proofs](https://gi
 
 ### Activities
 
-- _[Open orghanizations on Mars](https://opensource.com/open-organization/18/1/imagining-open-communities)—Heidi Ellis
+- _[Open organizations on Mars](https://opensource.com/open-organization/18/1/imagining-open-communities)—Heidi Ellis_
 - _[Performing the collaborative dilemma](https://opensource.com/education/16/6/candy-or-swag-game-teaching-open-source-kids)—Gina Likins_
