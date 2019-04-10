@@ -4,7 +4,7 @@
 
 ## Table of Contents
 
-(Chapters _in italics_ have been typeset in the book's galley proofs and are available for review and copy editing.)
+(Chapters _in italics_ have been typeset in [the book's galley proofs](https://github.com/open-organization-ambassadors/open-org-educators-guide/blob/master/open_org_educators_guide_1_0.pdf) and are available for review and copy editing.)
 
 ### Front matter
 
