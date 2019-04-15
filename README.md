@@ -22,4 +22,8 @@ As per guidelines in this repository, all material included in this book is lice
 
 ## Contributing
 
-Want to submit a chapter to the book? Simply [open an issue](https://github.com/open-organization-ambassadors/open-org-educators-guide/issues) and describe the contribution you'd like to make, and an editor will get in touch with you.
+Want to submit a chapter to the book?
+
+First, review the [working table of contents](https://github.com/open-organization-ambassadors/open-org-educators-guide/blob/master/table_of_contents.md) to see what others have already agreed to contribute.
+
+Next, simply [open an issue](https://github.com/open-organization-ambassadors/open-org-educators-guide/issues) and describe the contribution you'd like to make, and an editor will get in touch with you.
