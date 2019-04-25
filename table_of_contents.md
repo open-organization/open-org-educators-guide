@@ -13,14 +13,15 @@
 
 ### Visions
 
-- [Truly open education will require sweeping changes](https://opensource.com/open-organization/18/1/open-education-public-mission)—Adam Haigler
+- Open Way Learning—Adam Haigler
 - DevOps for schools—Don Watkins
 - _[Open education is more than open content](https://opensource.com/open-organization/16/8/harnessing-power-open-education)—Jim Whitehurst_
 
 ### Case studies
 
-- _[An open process for discovering your core values](https://opensource.com/open-organization/16/6/opening-discover-education-centers-core-values)—Beth Anderson_
-- _[What happened when I let me students fork the syllabus](https://opensource.com/open-organization/18/11/making-course-syllabus-open)—Heidi Ellis_
+- _[An open process for discovering our school's core values](https://opensource.com/open-organization/16/6/opening-discover-education-centers-core-values)—Beth Anderson_
+- _[What happened when I let my students fork the syllabus](https://opensource.com/open-organization/18/11/making-course-syllabus-open)—Heidi Ellis_
+- Equipping students to critically evaluate their textbooks—Steven Ovadia
 - [Confronting linguistic bias: The case for an open human language in research and pedagogy](https://opensource.com/open-organization/19/4/open-language-for-open-education)—Race MoChridhe
 - _[How our non-profit works openly to make education accessible](https://opensource.com/open-organization/19/2/building-curriculahub)—Tanner Johnson_
 - _[Making computer science curricula as adaptable as our code](https://opensource.com/open-organization/19/4/adaptable-curricula-computer-science)—Amarachi Achonu_
