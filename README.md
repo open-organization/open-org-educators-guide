@@ -27,3 +27,12 @@ Want to submit a chapter to the book?
 First, review the [working table of contents](https://github.com/open-organization-ambassadors/open-org-educators-guide/blob/master/table_of_contents.md) to see what others have already agreed to contribute.
 
 Next, simply [open an issue](https://github.com/open-organization-ambassadors/open-org-educators-guide/issues) and describe the contribution you'd like to make, and an editor will get in touch with you.
+
+## Project timeline
+
+May 31: All initial chapter drafts due  
+July 12: All final chapter drafts due  
+August 09: Book cover finalized  
+August 30: Book interior finalized  
+September 06: All promotional materials finalized  
+September 10: Book launch  

@@ -14,6 +14,7 @@
 ### Visions
 
 - Open Way Learning—Adam Haigler
+- A new vision for open education—Aria Chernik
 - DevOps for schools—Don Watkins
 - _[Open education is more than open content](https://opensource.com/open-organization/16/8/harnessing-power-open-education)—Jim Whitehurst_
 
@@ -32,3 +33,4 @@
 
 - _[Open organizations on Mars](https://opensource.com/open-organization/18/1/imagining-open-communities)—Heidi Ellis_
 - _[Performing the collaborative dilemma](https://opensource.com/education/16/6/candy-or-swag-game-teaching-open-source-kids)—Gina Likins_
+- Agile for educators—Tanner Johnson and Aria Chernik
