@@ -27,6 +27,7 @@
 - _[How our non-profit works openly to make education accessible](https://opensource.com/open-organization/19/2/building-curriculahub)—Tanner Johnson_
 - _[Making computer science curricula as adaptable as our code](https://opensource.com/open-organization/19/4/adaptable-curricula-computer-science)—Amarachi Achonu_
 - Building the open schoolhouse—Charlie Reisinger
+- Building a multi-year hybrid course initiative the open way—Dan McGuire
 - _[Crowdsourcing our way to a campus IT plan](https://opensource.com/open-organization/17/10/uab-100-wins-through-crowdsourcing)—Curtis A. Carver_
 
 ### Activities
