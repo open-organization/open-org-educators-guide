@@ -13,6 +13,7 @@
 
 ### Visions
 
+- Economics, openness, and the education system—Rahul Razdan
 - Open Way Learning—Adam Haigler
 - A new vision for open education—Aria Chernik
 - DevOps for schools—Don Watkins
@@ -22,11 +23,13 @@
 
 - _[An open process for discovering our school's core values](https://opensource.com/open-organization/16/6/opening-discover-education-centers-core-values)—Beth Anderson_
 - _[What happened when I let my students fork the syllabus](https://opensource.com/open-organization/18/11/making-course-syllabus-open)—Heidi Ellis_
+- Building a community of remote students—Jimmy Sjölund
 - Equipping students to critically evaluate their textbooks—Steven Ovadia
 - _[Confronting linguistic bias: The case for an open human language in research and pedagogy](https://opensource.com/open-organization/19/4/open-language-for-open-education)—Race MoChridhe_
 - _[How our non-profit works openly to make education accessible](https://opensource.com/open-organization/19/2/building-curriculahub)—Tanner Johnson_
 - _[Making computer science curricula as adaptable as our code](https://opensource.com/open-organization/19/4/adaptable-curricula-computer-science)—Amarachi Achonu_
 - Building the open schoolhouse—Charlie Reisinger
+- Working in the open schoolhouse—Maxwell Bushong
 - Building a multi-year hybrid course initiative the open way—Dan McGuire
 - _[Crowdsourcing our way to a campus IT plan](https://opensource.com/open-organization/17/10/uab-100-wins-through-crowdsourcing)—Curtis A. Carver_
 
