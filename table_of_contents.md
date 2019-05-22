@@ -13,12 +13,12 @@
 
 ### Visions
 
-- Economics, openness, and the education system—Rahul Razdan
+- _Economics, openness, and the education system—Rahul Razdan_
 - A new vision for open education—Aria Chernik
 - _Truly open education will require sweeping changes—Adam Haigler_
 - DevOps for schools—Don Watkins
 - _[Open education is more than open content](https://opensource.com/open-organization/16/8/harnessing-power-open-education)—Jim Whitehurst_
-- [3 ways university classrooms can be more open](https://opensource.com/open-organization/17/12/open-model-college-classrooms)—Susie Choi
+- _[3 ways university classrooms can be more open](https://opensource.com/open-organization/17/12/open-model-college-classrooms)—Susie Choi_
 
 ### Case studies
 
