@@ -33,6 +33,7 @@
 - Flip the script: An open community of practice at the student help desk—Maxwell Bushong
 - Building a multi-year hybrid course initiative the open way—Dan McGuire
 - _[Crowdsourcing our way to a campus IT plan](https://opensource.com/open-organization/17/10/uab-100-wins-through-crowdsourcing)—Curtis A. Carver_
+- The Professors Open Source Software Experience—Shobha Tyagi
 
 ### Activities
 
