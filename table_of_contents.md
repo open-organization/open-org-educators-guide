@@ -12,10 +12,10 @@
 ### Visions
 
 - Economics, openness, and the education system—Rahul Razdan
-- A new vision for open education—Aria Chernik
 - Truly open education will require sweeping changes—Adam Haigler
+- [The future of ethical tech education must be open](https://opensource.com/open-organization/19/6/future-ethical-tech-edu-open)—Justin Sherman
+- A new vision for open education—Aria Chernik
 - DevOps for schools—Don Watkins
-- Ethical tech education must be open
 - [3 ways university classrooms can be more open](https://opensource.com/open-organization/17/12/open-model-college-classrooms)—Susie Choi
 - [Open education is more than open content](https://opensource.com/open-organization/16/8/harnessing-power-open-education)—Jim Whitehurst
 
