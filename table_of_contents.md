@@ -21,18 +21,18 @@
 
 ### Case studies
 
-- [An open process for discovering our school's core values](https://opensource.com/open-organization/16/6/opening-discover-education-centers-core-values)—Beth Anderson
 - [What happened when I let my students fork the syllabus](https://opensource.com/open-organization/18/11/making-course-syllabus-open)—Heidi Ellis
+- [An open process for discovering our school's core values](https://opensource.com/open-organization/16/6/opening-discover-education-centers-core-values)—Beth Anderson
 - Building a community of remote students—Jimmy Sjölund
 - Equipping students to critically evaluate their textbooks—Steven Ovadia
 - [Confronting linguistic bias: The case for an open human language in research and pedagogy](https://opensource.com/open-organization/19/4/open-language-for-open-education)—Race MoChridhe
-- [How our non-profit works openly to make education accessible](https://opensource.com/open-organization/19/2/building-curriculahub)—Tanner Johnson
-- [Making computer science curricula as adaptable as our code](https://opensource.com/open-organization/19/4/adaptable-curricula-computer-science)—Amarachi Achonu
 - The open schoolhouse: Culture, praxis, empowerment—Charlie Reisinger
 - Flip the script: An open community of practice at the student help desk—Maxwell Bushong
 - Building a multi-year hybrid course initiative the open way—Dan McGuire
 - [Crowdsourcing our way to a campus IT plan](https://opensource.com/open-organization/17/10/uab-100-wins-through-crowdsourcing)—Curtis A. Carver
 - The Professors Open Source Software Experience—Shobha Tyagi
+- [How our non-profit works openly to make education accessible](https://opensource.com/open-organization/19/2/building-curriculahub)—Tanner Johnson
+- [Making computer science curricula as adaptable as our code](https://opensource.com/open-organization/19/4/adaptable-curricula-computer-science)—Amarachi Achonu
 
 ### Activities
 
