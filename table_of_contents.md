@@ -12,10 +12,8 @@
 ### Visions
 
 - Economics, openness, and the education system—Rahul Razdan
-- Truly open education will require sweeping changes—Adam Haigler
+- [Truly open education will require sweeping changes](https://opensource.com/open-organization/18/1/open-education-public-mission)—Adam Haigler
 - [The future of ethical tech education must be open](https://opensource.com/open-organization/19/6/future-ethical-tech-edu-open)—Justin Sherman
-- A new vision for open education—Aria Chernik
-- DevOps for schools—Don Watkins
 - [3 ways university classrooms can be more open](https://opensource.com/open-organization/17/12/open-model-college-classrooms)—Susie Choi
 - [Open education is more than open content](https://opensource.com/open-organization/16/8/harnessing-power-open-education)—Jim Whitehurst
 
@@ -23,10 +21,8 @@
 
 - [What happened when I let my students fork the syllabus](https://opensource.com/open-organization/18/11/making-course-syllabus-open)—Heidi Ellis
 - [An open process for discovering our school's core values](https://opensource.com/open-organization/16/6/opening-discover-education-centers-core-values)—Beth Anderson
-- Building a community of remote students—Jimmy Sjölund
-- Equipping students to critically evaluate their textbooks—Steven Ovadia
 - [Confronting linguistic bias: The case for an open human language in research and pedagogy](https://opensource.com/open-organization/19/4/open-language-for-open-education)—Race MoChridhe
-- The open schoolhouse: Culture, praxis, empowerment—Charlie Reisinger
+- [The open schoolhouse: Culture, praxis, empowerment](https://opensource.com/open-organization/19/7/open-schoolhouse-empowerment)—Charlie Reisinger
 - Flip the script: An open community of practice at the student help desk—Maxwell Bushong
 - Building a multi-year hybrid course initiative the open way—Dan McGuire
 - [Crowdsourcing our way to a campus IT plan](https://opensource.com/open-organization/17/10/uab-100-wins-through-crowdsourcing)—Curtis A. Carver
@@ -38,5 +34,3 @@
 
 - [Performing the collaborative dilemma](https://opensource.com/education/16/6/candy-or-swag-game-teaching-open-source-kids)—Gina Likins
 - [Open organizations on Mars](https://opensource.com/open-organization/18/1/imagining-open-communities)—Heidi Ellis
-- Agile for educators—Tanner Johnson and Aria Chernik
-- How to collect feedback from your students—Charlie Reisinger
