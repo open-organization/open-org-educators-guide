@@ -14,6 +14,7 @@
 - Economics, openness, and the education system—Rahul Razdan
 - [Truly open education will require sweeping changes](https://opensource.com/open-organization/18/1/open-education-public-mission)—Adam Haigler
 - [The future of ethical tech education must be open](https://opensource.com/open-organization/19/6/future-ethical-tech-edu-open)—Justin Sherman
+- A practical path to open education—Dan McGuire
 - [3 ways university classrooms can be more open](https://opensource.com/open-organization/17/12/open-model-college-classrooms)—Susie Choi
 - [Open education is more than open content](https://opensource.com/open-organization/16/8/harnessing-power-open-education)—Jim Whitehurst
 
@@ -24,7 +25,6 @@
 - [Confronting linguistic bias: The case for an open human language in research and pedagogy](https://opensource.com/open-organization/19/4/open-language-for-open-education)—Race MoChridhe
 - [The open schoolhouse: Culture, praxis, empowerment](https://opensource.com/open-organization/19/7/open-schoolhouse-empowerment)—Charlie Reisinger
 - Flip the script: An open community of practice at the student help desk—Maxwell Bushong
-- Building a multi-year hybrid course initiative the open way—Dan McGuire
 - Teaching students to evaluate textbooks—Christopher McHale, Ian McDermott and Steven Ovadia
 - [Crowdsourcing our way to a campus IT plan](https://opensource.com/open-organization/17/10/uab-100-wins-through-crowdsourcing)—Curtis A. Carver
 - Open education has a POSSE—Shobha Tyagi
