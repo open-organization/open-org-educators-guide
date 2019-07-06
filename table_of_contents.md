@@ -33,5 +33,6 @@
 
 ### Activities
 
+- How to collect feedback from your students (or, how to assess the sting of teenage rejection)—Charlie Reisinger
 - [Performing the collaborative dilemma](https://opensource.com/education/16/6/candy-or-swag-game-teaching-open-source-kids)—Gina Likins
 - [Open organizations on Mars](https://opensource.com/open-organization/18/1/imagining-open-communities)—Heidi Ellis
