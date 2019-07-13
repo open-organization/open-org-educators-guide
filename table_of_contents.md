@@ -16,6 +16,7 @@
 - [The future of ethical tech education must be open](https://opensource.com/open-organization/19/6/future-ethical-tech-edu-open)—Justin Sherman
 - A practical path to open education—Dan McGuire
 - M-learning and beyond—Jim Hall
+- The most valuable cybersecurity education is an open one—Brandon Dixon & Randall Joyce
 - [3 ways university classrooms can be more open](https://opensource.com/open-organization/17/12/open-model-college-classrooms)—Susie Choi
 - [Open education is more than open content](https://opensource.com/open-organization/16/8/harnessing-power-open-education)—Jim Whitehurst
 
@@ -36,3 +37,7 @@
 - How to collect feedback from your students (or, how to assess the sting of teenage rejection)—Charlie Reisinger
 - [Performing the collaborative dilemma](https://opensource.com/education/16/6/candy-or-swag-game-teaching-open-source-kids)—Gina Likins
 - [Open organizations on Mars](https://opensource.com/open-organization/18/1/imagining-open-communities)—Heidi Ellis
+
+### Appendix
+
+- [The Open Organization Definition](https://github.com/open-organization-ambassadors/open-org-definition/blob/master/open_org_definition.md)
