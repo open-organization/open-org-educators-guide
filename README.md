@@ -32,7 +32,7 @@ Next, simply [open an issue](https://github.com/open-organization-ambassadors/op
 
 ~~May 31: All initial chapter drafts due~~  
 ~~July 12: All final chapter drafts due~~  
-July 26: Book title, subtitle, and promotional description finalized
+July 26: Book title, subtitle, and promotional description finalized  
 August 16: Book cover finalized  
 August 23: Book interior finalized  
 September 06: All promotional materials finalized  
