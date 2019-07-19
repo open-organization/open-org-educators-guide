@@ -6,8 +6,9 @@
 
 ### Front matter
 
-- Preface—Aria Chernik (Duke University), Ben Owens (Open Way Learning), and Bryan Behrenshausen (Red Hat)
+- Preface—Aria Chernik, Ben Owens & Bryan Behrenshausen
 - Introduction: [Can schools be agile?](https://opensource.com/open-organization/19/4/education-culture-continuous-improvement)—Ben Owens
+- About the cover
 
 ### Visions
 
@@ -22,7 +23,8 @@
 
 ### Case studies
 
-- A hybrid model of open source in academics: The Rensselaer Center for Open Source—Wesley Turner, David Goldschmidt, Mukkai Krishnamoorthy
+- A hybrid model of open source in academics: The Rensselaer Center for Open Source—Wesley Turner, David Goldschmidt & Mukkai Krishnamoorthy
+- Teaching students to critically evaluate textbooks—Christopher McHale, Ian McDermott & Steven Ovadia
 - [What happened when I let my students fork the syllabus](https://opensource.com/open-organization/18/11/making-course-syllabus-open)—Heidi Ellis
 - [An open process for discovering our school's core values](https://opensource.com/open-organization/16/6/opening-discover-education-centers-core-values)—Beth Anderson
 - [The open schoolhouse: Culture, praxis, empowerment](https://opensource.com/open-organization/19/7/open-schoolhouse-empowerment)—Charlie Reisinger
