@@ -18,6 +18,7 @@
 - A practical path to open education—Dan McGuire
 - M-learning and beyond—Jim Hall
 - The most valuable cybersecurity education is an open one—Brandon Dixon & Randall Joyce
+- Rethinking assessment in an open, peeragogical learning environment—David Preston
 - [3 ways university classrooms can be more open](https://opensource.com/open-organization/17/12/open-model-college-classrooms)—Susie Choi
 - [Open education is more than open content](https://opensource.com/open-organization/16/8/harnessing-power-open-education)—Jim Whitehurst
 
@@ -27,6 +28,7 @@
 - Teaching students to critically evaluate textbooks—Christopher McHale, Ian McDermott & Steven Ovadia
 - [What happened when I let my students fork the syllabus](https://opensource.com/open-organization/18/11/making-course-syllabus-open)—Heidi Ellis
 - [An open process for discovering our school's core values](https://opensource.com/open-organization/16/6/opening-discover-education-centers-core-values)—Beth Anderson
+- 5PH1NX: 5tudent Peer Heuristic for 1Nformation Xchange (a slightly transmedia use case in Open Source Learning and peeragogical assessment)—David Preston
 - [The open schoolhouse: Culture, praxis, empowerment](https://opensource.com/open-organization/19/7/open-schoolhouse-empowerment)—Charlie Reisinger
 - Flip the script: An open community of practice at the student help desk—Maxwell Bushong
 - Open education has a POSSE—Shobha Tyagi
