@@ -16,7 +16,8 @@
 - [Truly open education will require sweeping changes](https://opensource.com/open-organization/18/1/open-education-public-mission)—Adam Haigler
 - [The future of ethical tech education must be open](https://opensource.com/open-organization/19/6/future-ethical-tech-edu-open)—Justin Sherman
 - A practical path to open education—Dan McGuire
-- M-learning and beyond—Jim Hall
+- [Can schools be agile?](https://opensource.com/open-organization/19/4/education-culture-agile)—Ben Owens
+- [M-learning and beyond](https://opensource.com/open-organization/19/7/m-learning-open-education)—Jim Hall
 - The most valuable cybersecurity education is an open one—Brandon Dixon & Randall Joyce
 - Rethinking assessment in an open, peeragogical learning environment—David Preston
 - [3 ways university classrooms can be more open](https://opensource.com/open-organization/17/12/open-model-college-classrooms)—Susie Choi
