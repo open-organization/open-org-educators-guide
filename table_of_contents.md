@@ -6,9 +6,9 @@
 
 ### Front matter
 
-- Preface—Aria Chernik, Ben Owens & Bryan Behrenshausen
-- Introduction: [Can schools be agile?](https://opensource.com/open-organization/19/4/education-culture-continuous-improvement)—Ben Owens
+- Preface—Bryan Behrenshausen
 - About the cover
+- Foreword—Aria F. Chernik
 
 ### Visions
 
@@ -45,6 +45,8 @@
 - How to collect feedback from your students (or, how to assess the sting of teenage rejection)—Charlie Reisinger
 - [Performing the collaborative dilemma](https://opensource.com/education/16/6/candy-or-swag-game-teaching-open-source-kids)—Gina Likins
 - [Open organizations on Mars](https://opensource.com/open-organization/18/1/imagining-open-communities)—Heidi Ellis
+- Afterword—Ben Owens
+
 
 ### Appendix
 
