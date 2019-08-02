@@ -18,7 +18,7 @@
 - A practical path to open education—Dan McGuire
 - [Can schools be agile?](https://opensource.com/open-organization/19/4/education-culture-agile)—Ben Owens
 - [M-learning and beyond](https://opensource.com/open-organization/19/7/m-learning-open-education)—Jim Hall
-- The most valuable cybersecurity education is an open one—Brandon Dixon & Randall Joyce
+- [The most valuable cybersecurity education is an open one](https://opensource.com/open-organization/19/8/open-cybersecurity-education)—Brandon Dixon & Randall Joyce
 - Rethinking assessment in an open, peeragogical learning environment—David Preston
 - [3 ways university classrooms can be more open](https://opensource.com/open-organization/17/12/open-model-college-classrooms)—Susie Choi
 - [Open education is more than open content](https://opensource.com/open-organization/16/8/harnessing-power-open-education)—Jim Whitehurst
