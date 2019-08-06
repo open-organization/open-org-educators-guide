@@ -7,7 +7,7 @@
 ### Front matter
 
 - Preface—Bryan Behrenshausen
-- About the cover
+- About the cover—Clara May & Ryan Williams
 - Foreword—Aria F. Chernik
 
 ### Visions
