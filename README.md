@@ -1,32 +1,16 @@
 # The Open Organization Guide for Educators
 
-This respository contains files related to _The Open Organization Guide for Educators_, a volume in the community-produced [_Open Organization_ book series](https://opensource.com/open-organization/resources/book-series).
+This respository contains files related to [_The Open Organization Guide for Educators_](https://opensource.com/open-organization/resources/educators-guide), a volume in the community-produced [_Open Organization_ book series](https://opensource.com/open-organization/resources/book-series).
 
 ## About the book
 
 Organizations everywhere are becoming more open—and more innovative, agile, and engaged as a result. But can we say the same of our educational organizations?
 
-What if we could build classrooms, departments, or entire educational institutions on the same values that power the open source communities? What if we could infuse [open principles](https://opensource.com/open-organization/resources/open-org-definition)—like transparency, inclusivity, adaptability, collaboration, and community—into reimagined educational organizations? How might that change the ways educators prepare students for life in an increasingly open world?
+What if we could build classrooms, departments, or entire educational institutions on the same values that power open source communities? What if we let open organization principles—like transparency, inclusivity, adaptability, collaboration, and community—guide our experiments in transforming education? How might that change the ways educators prepare students for life in an increasingly open world?
 
-This volume of the [_Open Organization_ book series](https://opensource.com/open-organization/resources/book-series) explores those questions.
+In _The Open Organization Guide for Educators_, more than two dozen advocates for open  education explore these important questions. Students, K‒12 teachers, university faculty, campus CIOs, and leaders of educational non-profits unite to explain the power and promise of a more student-centered, participatory, and inclusive approach to 21st century teaching and learning.
 
-Three principal sections comprise the book:
-
-1. **Visions,** chapters about the power, potential, and promise open principles hold for reimagining and reinventing modern educational organizations
-
-2. **Case studies,** examples of experimental and innovative initiatives aimed at making educational organizations more open
-
-3. **Activities,** step-by-step practices for introducing and scaling open principles in education
-
-As per guidelines in this repository, all material included in this book is licensed via a Creative Commons license.
-
-## Contributing
-
-Want to submit a chapter to the book?
-
-First, review the [working table of contents](https://github.com/open-organization-ambassadors/open-org-educators-guide/blob/master/table_of_contents.md) to see what others have already agreed to contribute.
-
-Next, simply [open an issue](https://github.com/open-organization-ambassadors/open-org-educators-guide/issues) and describe the contribution you'd like to make, and an editor will get in touch with you.
+As per guidelines in this repository, all material included in this book [is licensed](https://github.com/open-organization-ambassadors/open-org-educators-guide/blob/master/LICENSE) via a Creative Commons license.
 
 ## Project timeline
 
