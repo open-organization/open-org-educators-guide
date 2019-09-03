@@ -10,4 +10,13 @@ What if we could build classrooms, departments, or entire educational institutio
 
 In _The Open Organization Guide for Educators_, more than two dozen advocates for open  education explore these important questions. Students, K‒12 teachers, university faculty, campus CIOs, and leaders of educational non-profits unite to explain the power and promise of a more student-centered, participatory, and inclusive approach to 21st century teaching and learning.
 
-As per guidelines in this repository, all material included in this book [is licensed](https://github.com/open-organization-ambassadors/open-org-educators-guide/blob/master/LICENSE) via a Creative Commons license.
+## Repository contents
+
+In this repository, please find:
+
+- The book's cover (in .jpg format)
+- A "binary" copy of the book (in .pdf format)
+- "Source code" for the book (in .odt format)
+- An e-book copy of the book (in .epub format) for reading on an e-reader, tablet, or other compatible device.
+
+Please contact open@opensource.com with comments, suggestions, and feedback.
